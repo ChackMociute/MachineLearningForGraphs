@@ -1,0 +1,5 @@
+.ipynb_checkpoints/ 
+hidden/
+data/models/
+*.egg-info
+__pycache__
