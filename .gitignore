@@ -3,3 +3,4 @@ hidden/
 data/models/
 *.egg-info
 __pycache__
+data.pt
